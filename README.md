@@ -1,8 +1,8 @@
-# PROJETO CALCULADORA 
+## PROJETO CALCULADORA 
 
 Este aplicativo foi desenvolvido com a inteção de aprimorar e aplicar meus conhecimentos com desenvolvimento Mobile Nativo para Android.
 
-# Aqui está um guia passo a passo para desenvolver um aplicativo de calculadora usando o Android Studio e a linguagem Java:
+### Aqui está um guia passo a passo para desenvolver um aplicativo de calculadora usando o Android Studio e a linguagem Java:
 
 Instale o Android Studio: Baixe e instale a versão mais recente do Android Studio no site oficial.
 
