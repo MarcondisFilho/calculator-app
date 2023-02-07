@@ -1,4 +1,4 @@
-## PROJETO CALCULADORA 
+# PROJETO CALCULADORA 
 
 Este aplicativo foi desenvolvido com a inteção de aprimorar e aplicar meus conhecimentos com desenvolvimento Mobile Nativo para Android.
 
@@ -6,7 +6,7 @@ Este aplicativo foi desenvolvido com a inteção de aprimorar e aplicar meus con
 
 Instale o Android Studio: Baixe e instale a versão mais recente do Android Studio no site oficial.
 
-# Crie um novo projeto: 
+## Crie um novo projeto: 
 abra o Android Studio e clique em "Iniciar um novo projeto do Android Studio". Escolha "Atividade vazia" como modelo e dê um nome a ela.
 
 Projete a interface do usuário: use o recurso de arrastar e soltar do editor de layout do Android Studio para projetar a interface do usuário da calculadora. 
