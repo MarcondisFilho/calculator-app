@@ -1,4 +1,4 @@
-## PROJETO Calculadora 
+## PROJETO CALCULADORA 
 
 Este aplicativo foi desenvolvido com a inteção de aprimorar e aplicar meus conhecimentos com desenvolvimento Mobile Nativo para Android.
 
@@ -19,9 +19,11 @@ Use Java para adicionar funcionalidade aos botões. Para fazer isso, abra o arqu
 Escreva o código para executar as operações aritméticas básicas, como adição, subtração, multiplicação e divisão. 
 Você pode usar instruções if-else ou switch-case para determinar qual operação executar com base no botão clicado pelo usuário.
 
-# Exibir resultados: adicione código para exibir o resultado do cálculo em um campo de texto ou em um rótulo.
+# Exibir resultados: 
+adicione código para exibir o resultado do cálculo em um campo de texto ou em um rótulo.
 
-# Teste o aplicativo: execute o aplicativo em um emulador ou dispositivo físico para testar sua funcionalidade.
+# Teste o aplicativo: 
+execute o aplicativo em um emulador ou dispositivo físico para testar sua funcionalidade.
 
 # Depure e refine o código: 
 se você encontrar algum erro ou bug, use as ferramentas de depuração no Android Studio para localizá-los e corrigi-los. 
