@@ -4,7 +4,7 @@ Este aplicativo foi desenvolvido com a inteção de aprimorar e aplicar meus con
 
 # Aqui está um guia passo a passo para desenvolver um aplicativo de calculadora usando o Android Studio e a linguagem Java:
 
-## Instale o Android Studio: Baixe e instale a versão mais recente do Android Studio no site oficial.
+Instale o Android Studio: Baixe e instale a versão mais recente do Android Studio no site oficial.
 
 # Crie um novo projeto: 
 abra o Android Studio e clique em "Iniciar um novo projeto do Android Studio". Escolha "Atividade vazia" como modelo e dê um nome a ela.
